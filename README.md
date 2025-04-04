@@ -27,7 +27,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/kinngkolos290/INFECT-DESTROY`
 * `cd $HOME`
 * `ls`
 * `cd infect`
